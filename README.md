@@ -9,3 +9,8 @@
 - [Workflows](workflows/)
 
 This repository is licensed under [CC-by-4](../LICENSE) (c) 2019 GitHub, Inc.
+
+
+Open source software is public and typically accepts contributions from outside of an organization.
+
+InnerSource is the practice of adopting open source patterns internally within your organization. An organization that practices InnerSource may or may not also maintain open source software.
